@@ -13,12 +13,12 @@ const testimonials = [
     org: 'Rook',
     desc: 'Really amazing communication skills. Always understand what I am trying to achieve. Also, his work is really amazing. Do really high-quality work.',
   },
-  {
-    id: 3,
-    name: 'Jeff Bezos',
-    title: 'Marketing Head',
-    org: 'Amazon',
-    desc: 'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
-  },
+  // {
+  //   id: 3,
+  //   name: 'Jeff Bezos',
+  //   title: 'Marketing Head',
+  //   org: 'Amazon',
+  //   desc: 'Really hard-working person. Deliver the work as promised. Planning to work more with this person.',
+  // },
 ];
 export default testimonials;
