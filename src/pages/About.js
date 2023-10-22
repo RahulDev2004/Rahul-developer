@@ -84,7 +84,7 @@ export default function About() {
                 Hi, I am <span>Rahul B</span>
               </p>
               <h2 className="about__heading">
-                A freelance Full-stach Developer
+                A freelance Full-stack Developer
               </h2>
               <div className="about__info">
                 <PText>
@@ -151,10 +151,6 @@ export default function About() {
               <AboutInfoItem
                 title="2021-2022"
                 items={['Software Developer at ROOK']}
-              />
-              <AboutInfoItem
-                title="2023-Present"
-                items={['CTO at ROOK Fellows']}
               />
               <AboutInfoItem
                 title="2023-Present"
