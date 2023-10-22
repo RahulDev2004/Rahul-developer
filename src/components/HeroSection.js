@@ -210,8 +210,12 @@ export default function HeroSection() {
                   </a>
                 </li>
                 <li>
-                  <a href="#" target="_blank" rel="noreferrer">
-                    IG
+                  <a
+                    href="https://github.com/RahulDev2004"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    GI
                   </a>
                 </li>
                 <li>
